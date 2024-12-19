@@ -1,2 +1,4 @@
-# ahmey-mezuniyet
+# ahmet-mezuniyet
 
+## Projemin fikri:
+> iklim değişikliği 
